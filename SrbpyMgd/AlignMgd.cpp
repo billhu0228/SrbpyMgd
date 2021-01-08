@@ -24,6 +24,7 @@ namespace SmartRoadBridge
 		{
 		public:
 			CAngle();
+
 			CAngle(System::Double);
 			~CAngle();
 
